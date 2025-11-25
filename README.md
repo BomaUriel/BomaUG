@@ -1,64 +1,65 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Boma Uriel 👋
 
 ## About Me
-I'm a passionate developer focused on building innovative solutions and learning new technologies. I enjoy tackling challenging problems and contributing to open-source projects.
+I'm a **Full-Stack Developer** skilled in building responsive front-end interfaces and scalable back-end APIs. I work with **JavaScript, React, Python, Flask, and MySQL**, and I enjoy turning ideas into clean, functional, and user-friendly applications.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[Types of projects]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+My background in **DevOps/SRE** gives me a strong foundation in debugging, cloud basics, CI/CD, and building reliable applications.
 
-## 🚀 Tech Stack
+---
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 🛠️ Tech Stack
+
+### Front-End
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Tools & Platforms
+### Back-End
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-FF6F00?style=flat-square)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF0000?style=flat-square)
+
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-## 📊 GitHub Stats
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+## 🌟 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+### 📌 Full-Stack Task Manager
+**React • Flask • MySQL**  
+CRUD tasks, authentication, API integration, and responsive UI.
 
-## 🔥 GitHub Streak
+### 📌 Community Business Directory
+**React • Flask/Node • PostgreSQL**  
+Searchable directory of businesses, dynamic filtering, and user authentication.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+### 📌 Portfolio Website
+**React • Bootstrap • GitHub Pages**  
+Showcase of projects, tech stack, and contact form integration.
 
-## 📌 Pinned Projects
-
-Here are some of my favorite projects:
-
-### [Project Name 1](https://github.com/YOUR_USERNAME/project1)
-Brief description of what this project does and the technologies used.
-
-### [Project Name 2](https://github.com/YOUR_USERNAME/project2)
-Brief description of what this project does and the technologies used.
-
-### [Project Name 3](https://github.com/YOUR_USERNAME/project3)
-Brief description of what this project does and the technologies used.
+---
 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:boma.uriel@example.com)
 
 ---
 
